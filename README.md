@@ -2,11 +2,11 @@
 
 <br>
 <p>Welcome to my page!😙 </br> I'm LEE CHAN, a third-year student majoring in Industrial and Management Engineering at Kyunghee University <a href="https://ie.khu.ac.kr/ie/user/main/view.do"> </b>,<br>
-currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/2195482.png" width="25"/> <b>Seoul, Korea</b>.<img src="https://i.ibb.co/30B7dtg/south-korea.png" width="15"/><br>
+Currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/2195482.png" width="25"/> <b>Seoul, Korea</b>.<img src="https://i.ibb.co/30B7dtg/south-korea.png" width="15"/><br>
 My research CV is in hear ➡️
-<a href="https://drive.google.com/file/d/1pW289ObpNYcDDaDJv5tejx-e0yjBd-vP/view?usp=sharing"><b>Curriculum Vitae(CV)</b></a>
+<a href="https://docs.google.com/document/d/1YqSugTyW35w0EJWYjQIBH3RQXECPGTlO/edit?usp=sharing&ouid=103500540050225697589&rtpof=true&sd=true"><b>Curriculum Vitae(CV)</b></a>
 
-Contact ➡️ <a href="mailto:handmadeoutlier@korea.ac.kr">handmadeoutlier@korea.ac.kr</a></p>
+Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></p>
 
 ---
 
