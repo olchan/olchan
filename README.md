@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**olchan/olchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1><img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/charmander_dancing.gif" width="50"/> Hey! Nice to see you. <img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/charmander_dancing.gif" width="50"/></h1>
 
 <br>
@@ -143,4 +138,3 @@ Contact ➡️ <a href="mailto:handmadeoutlier@korea.ac.kr">handmadeoutlier@kore
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Mon, 2 Dec, 22:51 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-
