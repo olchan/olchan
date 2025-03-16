@@ -80,6 +80,57 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   </tbody>
 </table>
 
+
+---
+
+### Awards 🏆
+
+  <table style="border-collapse: collapse; width: 100%; text-align: left;">
+  <thead>
+    <tr style="border-bottom: 2px solid #ddd;">
+      <th style="width: 300px; padding: 8px;">Date</th>
+      <th style="padding: 8px;">Award Name</th>
+      <th style="padding: 8px;">Ranking</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px;">2024.12</td>
+      <td style="padding: 8px;">NH Investment Securities Big Data Competition</td>
+      <td style="padding: 8px;">4th Place 🎖</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px;">2024.07</td>
+      <td style="padding: 8px;">2024 Employment and Labor Open Data Use Competition</td>
+      <td style="padding: 8px;">3rd Place 🥉</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px;">2023.12</td>
+      <td style="padding: 8px;">Gyung-Gi Autonomous Driving Center: AI Model Contest using Big Data</td>
+      <td style="padding: 8px;">2nd Place 🥈</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">2023.12</td>
+      <td style="padding: 8px;">Kyung Hee University 2023 Fall Academic Conference</td>
+      <td style="padding: 8px;">3rd Place 🥉</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### Self - Studies 💻
+
+- ML Studies
+
+---
+### Extracurricluar Activites & Internships 📝
+
+- IMELITE
+- FIELD
+- KHUDA
+- Metor Mentee Program
+
 ---
        
 <h3><img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/alert.gif" width="15"/> My latest posts</h3>
