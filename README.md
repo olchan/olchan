@@ -39,7 +39,6 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
     </tr>
   </thead>
   <tbody> 
-<thead align="center">
  	  <tr>
       <td><a href=".."><b>LG Aimers 6기</b></a></td>
       <td>FIELD</td>
@@ -75,8 +74,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td>Aug. 2022 ~ Dec. 2022</td>
       <td>Preprocessing, Developing</td>
     </tr>
-
-    </thead>       
+      
   </tbody>
 </table>
 
