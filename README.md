@@ -42,7 +42,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
 <thead align="center">
  	  <tr>
       <td><a href="https://www.notion.so/2022-a82a1e1a77774d079a7087826a38a326?pvs=4"><b>2022 빅콘테스트 데이터 분석 퓨처스 부문 우수상</b></a></td>
-      <td>FEILD</td>
+      <td>FIELD</td>
       <td>2022빅콘테스트, (주)FINDA</td>
       <td>Aug. 2022 ~ Dec. 2022</td>
       <td>Preprocessing, Developing</td>
