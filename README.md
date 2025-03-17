@@ -133,7 +133,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
     <tr style="border-bottom: 1px solid #ddd;">
       <td style="padding: 8px;">2022.12</td>
       <td style="padding: 8px;">빅콘테스트 퓨처스 리그 데이터 분석 분야</td>
-      <td style="padding: 8px;">우수상</td>
+      <td style="padding: 8px;">빅데이터포럼의장상</td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
       <td style="padding: 8px;">2022.08</td>
