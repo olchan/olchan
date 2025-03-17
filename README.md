@@ -77,7 +77,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
  	  <tr>
       <td><a href="https://drive.google.com/file/d/13nC0krYN-CTQAKXGa9ihFbOOrLNe34Tl/view?usp=sharing"><b>야간 작전용 Image Colorization 및 저조도 광학 영상 해상도 개선</b></a></td>
       <td>AI 5팀</td>
-      <td>KAKO</td>
+      <td>KAKAO</td>
       <td>Nov. 2023 ~ Feb. 2024</td>
       <td>Developing</td>
     </tr>
