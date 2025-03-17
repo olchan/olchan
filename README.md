@@ -110,7 +110,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
       <td style="padding: 8px;">2024.11</td>
-      <td style="padding: 8px;">KHUDA 심화 프로젝트 컨퍼런스</td>
+      <td style="padding: 8px;">2024 KHUDA 심화 프로젝트 컨퍼런스</td>
       <td style="padding: 8px;">최우수상</td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
