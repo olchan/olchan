@@ -67,6 +67,13 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td>Aug. 2022 ~ Dec. 2022</td>
       <td>Preprocessing, Developing</td>
     </tr>
+    <tr>
+      <td><a href="https://drive.google.com/file/d/1PmL8__B3BKcXLpcdHwF7DBSxKv5vBo_f/view?usp=sharing"><b>LG Aimers 5기 : 차량용 Curved Display 생산 품질 개선 모델 개발' </b></a></td>
+      <td>선형조화</td>
+      <td>서울시 빅데이터 캠퍼스</td>
+      <td>Aug. 2022 ~ Dec. 2022</td>
+      <td>Preprocessing, Developing</td>
+    </tr>
  	  <tr>
       <td><a href="https://drive.google.com/file/d/13nC0krYN-CTQAKXGa9ihFbOOrLNe34Tl/view?usp=sharing"><b>야간 작전용 Image Colorization</b></a></td>
       <td>AI 5팀</td>
