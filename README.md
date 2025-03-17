@@ -64,14 +64,14 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td><a href="https://drive.google.com/file/d/1xCGXlPuYxjHPj_qAKlfWkqgQ2zSOWza4/view?usp=sharing"><b>서울시 지역간 연결성 강화를 위한 녹지 선형공원 입지 제안</b></a></td>
       <td>선형조화</td>
       <td>서울시 빅데이터 캠퍼스</td>
-      <td>Aug. 2022 ~ Dec. 2022</td>
+      <td>Aug. 2024 ~ Sep. 2024</td>
       <td>Preprocessing, Developing</td>
     </tr>
     <tr>
       <td><a href="https://drive.google.com/file/d/1PmL8__B3BKcXLpcdHwF7DBSxKv5vBo_f/view?usp=sharing"><b>LG Aimers 5기 : 차량용 Curved Display 생산 품질 개선 모델 개발' </b></a></td>
-      <td>선형조화</td>
-      <td>서울시 빅데이터 캠퍼스</td>
-      <td>Aug. 2022 ~ Dec. 2022</td>
+      <td>Aigo</td>
+      <td>LG 전자</td>
+      <td>Jun. 2024 ~ Jul. 2024</td>
       <td>Preprocessing, Developing</td>
     </tr>
  	  <tr>
