@@ -27,7 +27,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-501515?style=flat-square&logo=html5&logoColor=white" />
 
 </p>
-<h3>✴️Research Experiences</h3>
+<h3>✴️Research Experiences & Projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -40,25 +40,39 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   </thead>
   <tbody> 
  	  <tr>
-      <td><a href=".."><b>LG Aimers 6기</b></a></td>
-      <td>FIELD</td>
+      <td><a href="https://dacon.io/competitions/official/236452/leaderboard"><b>LG Aimers 6기 : 난임 환자 대상 임신 성공 여부 예측 AI 제작</b></a></td>
+      <td>최_적같이</td>
       <td> LG 화학, HFEA
-      <td>01. 2025 ~ 04. 2025</td>
-      <td>Preprocessing, Developing</td>
+      <td> Feb. 2025 ~ Apr. 2025</td>
+      <td>4.7 본선 후, upload 예정</td>
     </tr>
  	  <tr>
-      <td><a href="https://www.notion.so/2022-a82a1e1a77774d079a7087826a38a326?pvs=4"><b>2022 빅콘테스트 데이터 분석 퓨처스 부문 우수상</b></a></td>
-      <td>FIELD</td>
-      <td>2022빅콘테스트, (주)FINDA</td>
-      <td>Aug. 2022 ~ Dec. 2022</td>
-      <td>Preprocessing, Developing</td>
+      <td><a href="https://drive.google.com/file/d/1TcPPqMYXF0Jc8yLVnZcwAmbOfuK5Qaq3/view?usp=sharing"><b>KVP 13기 중급 우수상</b></a></td>
+      <td>SoDoWe</td>
+      <td>경희대학교 LINC 3.0 사업단 창업활성화센터</td>
+      <td>Dec. 2024 ~ Jan. 2025</td>
+      <td>Developing Chatbot Algorithm & Designing a business plan</td>
     </tr>
     <tr>
-      <td><a href="https://www.notion.so/2022-a82a1e1a77774d079a7087826a38a326?pvs=4"><b>LG Aimers 5기 : 차량용 Curved Display 불량 감지 모델 개발</b></a></td>
-      <td>FIELD</td>
-      <td>LG 전자</td>
+      <td><a href="https://www.canva.com/design/DAGYCqlzbwk/2QTkx7VM-2vcnzJWUUTPfw/edit?utm_content=DAGYCqlzbwk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><b>Depth alignment를 통한 자연스러운 연예인 프레임 인생네컷</b></a></td>
+      <td>PhotoRealism</td>
+      <td>KHUDA Computer Vision Track</td>
+      <td>Sep. 2024 ~ Dec. 2024</td>
+      <td>Developing</td>
+    </tr>
+    <tr>
+      <td><a href="https://drive.google.com/file/d/1xCGXlPuYxjHPj_qAKlfWkqgQ2zSOWza4/view?usp=sharing"><b>서울시 지역간 연결성 강화를 위한 녹지 선형공원 입지 제안</b></a></td>
+      <td>선형조화</td>
+      <td>서울시 빅데이터 캠퍼스</td>
       <td>Aug. 2022 ~ Dec. 2022</td>
       <td>Preprocessing, Developing</td>
+    </tr>
+ 	  <tr>
+      <td><a href="https://drive.google.com/file/d/13nC0krYN-CTQAKXGa9ihFbOOrLNe34Tl/view?usp=sharing"><b>야간 작전용 Image Colorization</b></a></td>
+      <td>AI 5팀</td>
+      <td>KAKO</td>
+      <td>Nov. 2023 ~ Feb. 2024</td>
+      <td>Developing</td>
     </tr>
  	  <tr>
       <td><a href="https://www.notion.so/2022-a82a1e1a77774d079a7087826a38a326?pvs=4"><b>2022 빅콘테스트 데이터 분석 퓨처스 부문 우수상</b></a></td>
@@ -67,14 +81,6 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td>Aug. 2022 ~ Dec. 2022</td>
       <td>Preprocessing, Developing</td>
     </tr>
- 	  <tr>
-      <td><a href="https://www.notion.so/2022-a82a1e1a77774d079a7087826a38a326?pvs=4"><b>2022 빅콘테스트 데이터 분석 퓨처스 부문 우수상</b></a></td>
-      <td>FIELD</td>
-      <td>2022빅콘테스트, (주)FINDA</td>
-      <td>Aug. 2022 ~ Dec. 2022</td>
-      <td>Preprocessing, Developing</td>
-    </tr>
-      
   </tbody>
 </table>
 
@@ -87,31 +93,52 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   <thead>
     <tr style="border-bottom: 2px solid #ddd;">
       <th style="width: 300px; padding: 8px;">Date</th>
-      <th style="padding: 8px;">Award Name</th>
-      <th style="padding: 8px;">Ranking</th>
+      <th style="padding: 8px;">Competition</th>
+      <th style="padding: 8px;">Award</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 8px;">2024.12</td>
-      <td style="padding: 8px;">NH Investment Securities Big Data Competition</td>
-      <td style="padding: 8px;">4th Place 🎖</td>
+      <td style="padding: 8px;">2025.02</td>
+      <td style="padding: 8px;">LG Aimers 6기 : Dacon 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤</td>
+      <td style="padding: 8px;">최종 Pririvate score 상위 2% 본선 진출 (4월 초 본선 진행)</td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;">2024.07</td>
-      <td style="padding: 8px;">2024 Employment and Labor Open Data Use Competition</td>
-      <td style="padding: 8px;">3rd Place 🥉</td>
+      <td style="padding: 8px;">2025.01</td>
+      <td style="padding: 8px;">KVP(KHU Valley Project) 13기 중급</td>
+      <td style="padding: 8px;">우수상</td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;">2023.12</td>
-      <td style="padding: 8px;">Gyung-Gi Autonomous Driving Center: AI Model Contest using Big Data</td>
-      <td style="padding: 8px;">2nd Place 🥈</td>
+      <td style="padding: 8px;">2024.11</td>
+      <td style="padding: 8px;">KHUDA 심화 프로젝트 컨퍼런스</td>
+      <td style="padding: 8px;">최우수상</td>
     </tr>
-    <tr>
-      <td style="padding: 8px;">2023.12</td>
-      <td style="padding: 8px;">Kyung Hee University 2023 Fall Academic Conference</td>
-      <td style="padding: 8px;">3rd Place 🥉</td>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px;">2024.10</td>
+      <td style="padding: 8px;">2024 서울시 빅데이터 캠퍼스 공모전</td>
+      <td style="padding: 8px;">우수상</td>
     </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px;">2024.02</td>
+      <td style="padding: 8px;">KAKAO 군장병 SW-AI 프로젝트</td>
+      <td style="padding: 8px;">혁신상</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px;">2022.12</td>
+      <td style="padding: 8px;">빅콘테스트 퓨처스 리그 데이터 분석 분야</td>
+      <td style="padding: 8px;">우수상</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px;">2022.08</td>
+      <td style="padding: 8px;">대한산업공학회 산업공학 홍보 영상 공모전</td>
+      <td style="padding: 8px;">최우수상</td>
+    </tr>
+  <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px;">2021.09</td>
+      <td style="padding: 8px;">경희대학교 포트폴리오 경진대회</td>
+      <td style="padding: 8px;">장려상</td>
+    </tr>
+    
   </tbody>
 </table>
 
@@ -134,11 +161,6 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
 <h3><img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/alert.gif" width="15"/> My latest posts</h3>
 <ul>
   <li><a href="https://datascience0321.tistory.com/49"><b>📒 [Review] Recurrent Neural Networks for Multivariate Time Series With Missing Values </i></li>
-  <li><a href="https://datascience0321.tistory.com/47"><b>📒 [Review] Using machine learning for the early prediction of sepsis-associated ARDS in the ICU and identification of clinical phenotypes with differential responses to treatment </i></li>  
-  <li><a href="https://datascience0321.tistory.com/46"><b>📒 [Review] Time-LLM: Time Series Forecasting By Reprogramming Large Language Models 쉽게 이해하기 </i></li>
-  <li><a href="https://datascience0321.tistory.com/45"><b>📒 [Review] The Impact of Delays on Service Times in the Intensive Care Unit</a><br/><i>Case study for research of Queueing model in Healthcare setting. </i></li>
-  <li><a href="https://datascience0321.tistory.com/44"><b>📒 [Review] Mamba: Linear-Time Sequence Modeling with Selective State Spaces 쉽게 이해하기</a><br/><i>Research Trend Report: Sequential Modeling</i>
-  <li><a href="https://datascience0321.tistory.com/43"><b>📒 [Review] The Sequential Organ Failure Assessment (SOFA) Score: has the time come for an update?</a><br/><i>Brief Review about SOFA</i>
 </ul>
 
 <h3>Where to find me</h3>  
