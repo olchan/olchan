@@ -82,7 +82,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td>Developing</td>
     </tr>
  	  <tr>
-      <td><a href="https://www.notion.so/2022-a82a1e1a77774d079a7087826a38a326?pvs=4"><b>2022 빅콘테스트 데이터 분석 퓨처스 부문 우수상</b></a></td>
+      <td><a href="https://drive.google.com/file/d/1Xa5c4FRphXHm6q2DeDAX0Kpvu0Kc7oYJ/view?usp=sharing"><b>Finda 사용자 데이터 분석을 통한 대출 신청 고객 분류 및 대출 상품 신청 여부 예측</b></a></td>
       <td>FIELD</td>
       <td>2022빅콘테스트, (주)FINDA</td>
       <td>Aug. 2022 ~ Dec. 2022</td>
