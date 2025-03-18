@@ -86,7 +86,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td>FIELD</td>
       <td>2022빅콘테스트, (주)FINDA</td>
       <td>Aug. 2022 ~ Dec. 2022</td>
-      <td>Preprocessing, Developing</td>
+      <td>Preprocessing</td>
     </tr>
   </tbody>
 </table>
