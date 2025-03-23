@@ -170,6 +170,15 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   <li><a href="https://datascience0321.tistory.com/49"><b>📒 [Review] Recurrent Neural Networks for Multivariate Time Series With Missing Values </i></li>
 </ul>
 
+<h3> 🚴‍♂️Tech Stack </h3>
+
+![The Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daw-ny&layout=compact)
+
+<h3> 🏅Baekjoon Algorithm </h3>
+
+[![Solved.ac 
+wisehead](http://mazassumnida.wtf/api/v2/generate_badge?boj=wisehead)](https://solved.ac/wisehead)
+
 <h3>Where to find me</h3>  
 <p><a href="https://www.instagram.com/chaaann._.o2/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="15"/> @chaaann._.o2</a></p>       
 <p><a href="https://m.blog.naver.com/chan_booklog?tab=1"> <img src="https://i.namu.wiki/i/QWVJJqQ2U_KE1A1BkDI5WwhFcIeQ4C9uGIgibUWPHr3ev65fv4JW9_Yd-66EVu_0TF8mMXIh9k_dnrv_DlLBCw.svg" width="15"/> Chan's Log</a></p>
