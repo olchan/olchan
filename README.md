@@ -172,7 +172,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
 
 <h3> 🚴‍♂️Tech Stack </h3>
 
-![The Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daw-ny&layout=compact)
+![The Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olchan&layout=compact)
 
 <h3> 🏅Baekjoon Algorithm </h3>
 
