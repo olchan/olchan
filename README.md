@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/charmander_dancing.gif" width="50"/> Hey! Nice to see you. <img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/charmander_dancing.gif" width="50"/></h1>
+<h1> Hey! Nice to see you.</h1>
 
 <br>
 <p>Welcome to my page!😙 </br> I'm LEE CHAN, a third-year student majoring in Industrial and Management Engineering at Kyunghee University <a href="https://ie.khu.ac.kr/ie/user/main/view.do"> </b>,<br>
