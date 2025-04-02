@@ -27,6 +27,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-501515?style=flat-square&logo=html5&logoColor=white" />
   <img alt="SIEMENS_NX" src="https://img.shields.io/badge/SIEMENS-NX-red" />
 
+Creative phone case design using CAD & manufacturing using 3D printer
 
 </p>
 <h3>✴️Research Experiences & Projects</h3>
@@ -41,6 +42,14 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
     </tr>
   </thead>
   <tbody> 
+    <tr>
+      <td><a href="https://www.canva.com/design/DAGjd1HiMNs/SgZ0Nv0sIkzUZXXHSHfdnQ/editutm_content=DAGjd1HiMNs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><b>
+Creative phone case design using CAD & manufacturing using 3D printer</b></a></td>
+      <td>CADCAM</td>
+      <td> 경희대학교
+      <td> Feb. 2025 ~ Apr. 2025.JUN</td>
+      <td> 3차 발표후 update 예정</td>
+    </tr>
  	  <tr>
       <td><a href="https://dacon.io/competitions/official/236452/leaderboard"><b>LG Aimers 6기 : 난임 환자 대상 임신 성공 여부 예측 AI 제작</b></a></td>
       <td>최_적같이</td>
