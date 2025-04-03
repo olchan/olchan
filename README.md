@@ -43,7 +43,7 @@ Creative phone case design using CAD & manufacturing using 3D printer
   </thead>
   <tbody> 
     <tr>
-      <td><a href="https://www.canva.com/design/DAGjd1HiMNs/SgZ0Nv0sIkzUZXXHSHfdnQ/edit?utm_content=DAGjd1HiMNs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><b>
+      <td><a href="https://www.canva.com/design/DAGjd1HiMNs/SgZ0Nv0sIkzUZXXHSHfdnQ/edit?utm_content=DAGjd1HiMNs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"><b>
 Creative phone case design using CAD & manufacturing using 3D printer</b></a></td>
       <td>CADCAM</td>
       <td> 경희대학교
