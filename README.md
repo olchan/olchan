@@ -27,8 +27,6 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-501515?style=flat-square&logo=html5&logoColor=white" />
   <img alt="SIEMENS_NX" src="https://img.shields.io/badge/SIEMENS-NX-red" />
 
-Creative phone case design using CAD & manufacturing using 3D printer
-
 </p>
 <h3>✴️Research Experiences & Projects</h3>
 <table>
