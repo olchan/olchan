@@ -1,7 +1,8 @@
 <h1> Hey! Nice to see you.</h1>
 
 <br>
-<p>Welcome to my page!😙 </br> I'm LEE CHAN, a third-year student majoring in Industrial and Management Engineering at Kyunghee University <a href="https://ie.khu.ac.kr/ie/user/main/view.do"> </b>,<br>
+<p>Welcome to my page!😙<br> <b>I'm LEE CHAN, a third-year student at Kyunghee University majoring in <a href="https://ie.khu.ac.kr/ie/user/main/view.do" target="_blank">Industrial and Management Engineering</a>, 
+and also double majoring in <a href="http://swcon.khu.ac.kr/wordpress/" target="_blank">Software Convergence</a>.</b><br>
 Currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/2195482.png" width="25"/> <b>Seoul, Korea</b>.<img src="https://i.ibb.co/30B7dtg/south-korea.png" width="15"/><br>
 My research CV is in hear ➡️
 <a href="https://docs.google.com/document/d/1YqSugTyW35w0EJWYjQIBH3RQXECPGTlO/edit?usp=sharing&ouid=103500540050225697589&rtpof=true&sd=true"><b>Curriculum Vitae(CV)</b></a>
