@@ -17,14 +17,15 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-46a2f1?style=flat-square&logo=Tensorflow&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/-Keras-2088FF?style=flat-square&logo=Keras&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-007ACC?style=flat-square&logo=mysql&logoColor=white" />  
-  <img alt="MSoffice" src="https://img.shields.io/badge/-MSoffice-5849BE?style=flat-square&logo=Microsoft office&logoColor=white" />
+  <img alt="MS Excel" src="https://img.shields.io/badge/-MS Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter-311C87?style=flat-square&logo=Jupyter&logoColor=white" />
-  <img alt="Scikit" src="https://img.shields.io/badge/-Scikit Learn-E10098?style=flat-square&logo=Scikit learn&logoColor=white" />
+  <img alt="Scikit" src="https://img.shields.io/badge/-Scikit Learn-E10098?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="git hub" src="https://img.shields.io/badge/-Github-ea2845?style=flat-square&logo=Github&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-DD0031?style=flat-square&logo=C&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C++-CB3837?style=flat-square&logo=C++&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-501515?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="MediaPipe" src="https://img.shields.io/badge/-MediaPipe-ff6f00?style=flat-square&logo=google&logoColor=white" />
   <img alt="SIEMENS_NX" src="https://img.shields.io/badge/SIEMENS-NX-red" />
 
 </p>
