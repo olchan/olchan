@@ -7,7 +7,7 @@ and also double majoring in the Data Science track under <a href="http://swcon.k
 Currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/2195482.png" width="25"/> <b>Seoul, Korea</b>.<img src="https://i.ibb.co/30B7dtg/south-korea.png" width="15"/><br>
 I am currently working as an undergraduate researcher in the <a href="https://sites.google.com/view/smartfactorylab/" target="_blank">  Smart Factory Lab</a>.
   
-My research CV is in hear ➡️
+My research CV is in here ➡️
 <a href="https://docs.google.com/document/d/1YqSugTyW35w0EJWYjQIBH3RQXECPGTlO/edit?usp=sharing&ouid=103500540050225697589&rtpof=true&sd=true"><b>Curriculum Vitae(CV)</b></a>
 
 Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></p>
