@@ -27,7 +27,6 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   <img alt="C" src="https://img.shields.io/badge/-C-DD0031?style=flat-square&logo=C&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C++-CB3837?style=flat-square&logo=C++&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-501515?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="MediaPipe" src="https://img.shields.io/badge/-MediaPipe-ff6f00?style=flat-square&logo=google&logoColor=white" />
   <img alt="SIEMENS_NX" src="https://img.shields.io/badge/SIEMENS-NX-red" />
 
 </p>
