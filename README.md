@@ -138,7 +138,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td style="padding: 8px;">우수상</td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;">2024.02</td>
+      <td style="padding: 8px;">2023.11</td>
       <td style="padding: 8px;">KAKAO 군장병 SW-AI 프로젝트</td>
       <td style="padding: 8px;">혁신상</td>
     </tr>
