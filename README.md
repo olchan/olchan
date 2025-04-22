@@ -124,7 +124,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
       <td style="padding: 8px;">2025.01</td>
-      <td style="padding: 8px;">KVP(KHU Valley Project) 13기 중급</td>
+      <td style="padding: 8px;">KVP(KHU Valley Project) 13기 </td>
       <td style="padding: 8px;">우수상</td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
