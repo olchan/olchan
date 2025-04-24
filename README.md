@@ -80,7 +80,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td>Preprocessing, Developing</td>
     </tr>
     <tr>
-      <td><a href = "https://drive.google.com/file/d/1KqGrIiNubCLLyfbQN7yTFRjMhoHQynwL/view?usp=sharing"><b>LG Aimers 5기: 차량용 Curved Display 생산 품질 개선 모델 개발' </b></a></td>
+      <td><a href = "[https://drive.google.com/file/d/1KqGrIiNubCLLyfbQN7yTFRjMhoHQynwL/view?usp=sharing](https://drive.google.com/file/d/12ndIHcjGavVJ_YP7mDf5X3IH6WdBIPwR/view?usp=sharing)"><b>LG Aimers 5기: 차량용 Curved Display 생산 품질 개선 모델 개발' </b></a></td>
       <td>Aigo</td>
       <td>LG 전자</td>
       <td>Jun. 2024 ~ Jul. 2024</td>
