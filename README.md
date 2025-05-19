@@ -163,6 +163,29 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
 
 ---
 
+### 📚 Class assignments and team project 
+
+  <table style="border-collapse: collapse; width: 100%; text-align: left;">
+  <thead>
+    <tr style="border-bottom: 2px solid #ddd;">
+      <th style="width: 300px; padding: 8px;">학기</th>
+      <th style="padding: 8px;">수업명</th>
+      <th style="padding: 8px;">과제물 설명</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;"></td>
+    </tr>
+    
+  </tbody>
+</table>
+
+---
+
+
 ### Self - Studies 💻
 
 - ML Studies
