@@ -44,19 +44,12 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
     </tr>
   </thead>
   <tbody> 
-    <tr>
-      <td><a href='https://www.canva.com/design/DAGi6dfl5Ak/GCz4ci1eIOSnKt6cDFrAVw/edit?utm_content=DAGi6dfl5Ak&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'><b>Creative phone case design using CAD & manufacturing using 3D printer</b></a></td>
-      <td>CADCAM</td>
-      <td> 경희대학교
-      <td> Feb. 2025 ~ Apr. 2025.JUN</td>
-      <td> 3차 발표후 update 예정</td>
-    </tr>
  	  <tr>
       <td><a href="https://drive.google.com/file/d/1TvwdFMk4XvmJg_BJoXAlHQFliodoGgbL/view?usp=sharing"><b>LG Aimers 6기 : 난임 환자 대상 임신 성공 여부 예측 AI 제작</b></a></td>
       <td>최_적같이</td>
       <td> LG 화학, HFEA
       <td> Feb. 2025 ~ Apr. 2025</td>
-      <td>4.7 본선 후, upload 예정</td>
+      <td>본선 최종 10위</td>
     </tr>
  	  <tr>
       <td><a href="https://drive.google.com/file/d/1TcPPqMYXF0Jc8yLVnZcwAmbOfuK5Qaq3/view?usp=sharing"><b>KVP 13기 중급 우수상</b></a></td>
