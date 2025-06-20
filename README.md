@@ -175,10 +175,28 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   </thead>
   <tbody>
   <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;"></td>
-      <td style="padding: 8px;"></td>
-      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;"> 2025 - 1 (3학년) </td>
+      <td style="padding: 8px;"> CADCAM </td>
+      <td style="padding: 8px;"> 창의적인 휴대폰 케이스 설계 및 3D Printer를 통한 프로토타입 제작 </td>
     </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px;"> 2025 - 1 </td>
+      <td style="padding: 8px;"> 디자인적 사고 </td>
+      <td style="padding: 8px;"> </td>
+    </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px;"> 2025 - 1 </td>
+      <td style="padding: 8px;"> 경영 경제 데이터 분석 </td>
+      <td style="padding: 8px;">  </td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px;"> 2024 - 2 </td>
+      <td style="padding: 8px;"> 인공지능 </td>
+      <td style="padding: 8px;">  </td>
+    </tr>
+    
+
+    
     
   </tbody>
 </table>
