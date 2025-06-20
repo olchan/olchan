@@ -176,7 +176,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   <tbody>
   <tr style="border-bottom: 1px solid #ddd;">
       <td style="padding: 8px;"> 3학년 1학기 </td>
-      <td style="padding: 8px;"> <a href="https://drive.google.com/file/d/1Xa5c4FRphXHm6q2DeDAX0Kpvu0Kc7oYJ/view?usp=sharing"><b> CADCAM </b></a></td>
+      <td style="padding: 8px;"> <a href="https://github.com/olchan/CADCAM"><b> CADCAM </b></a></td>
       <td style="padding: 8px;"> 창의적인 휴대폰 케이스 설계 및 3D Printer를 통한 프로토타입 제작 </td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
