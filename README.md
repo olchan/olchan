@@ -168,15 +168,15 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   <table style="border-collapse: collapse; width: 100%; text-align: left;">
   <thead>
     <tr style="border-bottom: 2px solid #ddd;">
-      <th style="width: 300px; padding: 8px;">학기</th>
+      <th style="width: 300px; padding: 8px;">수강 학기</th>
       <th style="padding: 8px;">수업명</th>
       <th style="padding: 8px;">과제물 설명</th>
     </tr>
   </thead>
   <tbody>
   <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;"> 2025 - 1 (3학년) </td>
-      <td style="padding: 8px;"> CADCAM </td>
+      <td style="padding: 8px;"> 3학년 1학기 </td>
+      <td style="padding: 8px;"> <a href="https://drive.google.com/file/d/1Xa5c4FRphXHm6q2DeDAX0Kpvu0Kc7oYJ/view?usp=sharing"><b> CADCAM </b></a></td>
       <td style="padding: 8px;"> 창의적인 휴대폰 케이스 설계 및 3D Printer를 통한 프로토타입 제작 </td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
