@@ -113,7 +113,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
     <tr>
       <td style="padding: 8px;">2025.02</td>
       <td style="padding: 8px;">LG Aimers 6기 : Dacon 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤</td>
-      <td style="padding: 8px;"> 예선 10위 / 794팀 (상위 2%) 본선진출 최종 9위 </td>
+      <td style="padding: 8px;"> 예선 10위 / 794팀 (상위 2%) 본선 최종 9위 </td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
       <td style="padding: 8px;">2025.01</td>
