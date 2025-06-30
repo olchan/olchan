@@ -184,7 +184,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
       <td style="padding: 8px;"> 2학년 2학기 </td>
-      <td style="padding: 8px;"> 인공지능 </td>
+      <td style="padding: 8px;"> <a href = "https://github.com/olchan/Artificial-Intelligence"> <b> 인공지능 </b> </td>
       <td style="padding: 8px;"> Mel-Spectrogram을 통한 불법 벌목 탐지 </td>
     </tr>
   </tbody>
