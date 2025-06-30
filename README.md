@@ -49,7 +49,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td>최_적같이</td>
       <td> LG 화학, HFEA
       <td> Feb. 2025 ~ Apr. 2025</td>
-      <td>본선 최종 10위</td>
+      <td> Data Preprocessing, Catboost Modelling </td>
     </tr>
  	  <tr>
       <td><a href="https://drive.google.com/file/d/1TcPPqMYXF0Jc8yLVnZcwAmbOfuK5Qaq3/view?usp=sharing"><b>KVP 13기 중급 우수상</b></a></td>
@@ -63,7 +63,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td>PhotoRealism</td>
       <td>KHUDA Computer Vision Track</td>
       <td>Sep. 2024 ~ Dec. 2024</td>
-      <td>Developing</td>
+      <td>Development of a depth-based filter size adjustment algorithm</td>
     </tr>
     <tr>
       <td><a href="https://drive.google.com/file/d/1xCGXlPuYxjHPj_qAKlfWkqgQ2zSOWza4/view?usp=sharing"><b>서울시 지역간 연결성 강화를 위한 녹지 선형공원 입지 제안</b></a></td>
@@ -84,14 +84,14 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td>AI 5팀</td>
       <td>KAKAO</td>
       <td>Nov. 2023 ~ Feb. 2024</td>
-      <td>Developing</td>
+      <td>Project planning and development</td>
     </tr>
  	  <tr>
       <td><a href="https://drive.google.com/file/d/1Xa5c4FRphXHm6q2DeDAX0Kpvu0Kc7oYJ/view?usp=sharing"><b>Finda 사용자 데이터 분석을 통한 대출 신청 고객 분류 및 대출 상품 신청 여부 예측</b></a></td>
       <td>FIELD</td>
       <td>2022빅콘테스트, (주)FINDA</td>
       <td>Aug. 2022 ~ Dec. 2022</td>
-      <td>Preprocessing</td>
+      <td>Preprocessing & Recommending personalized loan messages to customers through clustering</td>
     </tr>
   </tbody>
 </table>
@@ -113,7 +113,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
     <tr>
       <td style="padding: 8px;">2025.02</td>
       <td style="padding: 8px;">LG Aimers 6기 : Dacon 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤</td>
-      <td style="padding: 8px;">최종 Pririvate score 상위 2% 본선 진출 (4월 초 본선 진행)</td>
+      <td style="padding: 8px;"> 예선 10위 / 794팀 (상위 2%) 본선진출 최종 9위 </td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
       <td style="padding: 8px;">2025.01</td>
@@ -173,59 +173,44 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td style="padding: 8px;"> 창의적인 휴대폰 케이스 설계 및 3D Printer를 통한 프로토타입 제작 </td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;"> 2025 - 1 </td>
+      <td style="padding: 8px;"> 3학년 1학기 </td>
       <td style="padding: 8px;"> 디자인적 사고 </td>
-      <td style="padding: 8px;"> </td>
+      <td style="padding: 8px;"> 생성형 AI를 활용한 아이들을 위한 영어 학습 서비스 개발 </td>
     </tr>
       <tr style="border-bottom: 1px solid #ddd;">
       <td style="padding: 8px;"> 2025 - 1 </td>
       <td style="padding: 8px;"> 경영 경제 데이터 분석 </td>
-      <td style="padding: 8px;">  </td>
+      <td style="padding: 8px;"> PSM - DID를 통한 제조업 기업군의 밸류업 프로그램 효과 분석 </td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
       <td style="padding: 8px;"> 2024 - 2 </td>
       <td style="padding: 8px;"> 인공지능 </td>
-      <td style="padding: 8px;">  </td>
+      <td style="padding: 8px;"> Mel-Spectrogram을 통한 불법 벌목 탐지 </td>
     </tr>
-    
-
-    
-    
   </tbody>
 </table>
 
 ---
 
-
-### Self - Studies 💻
-
-- ML Studies
-
----
 ### Extracurricluar Activites & Internships 📝
 
-- IMELITE
-- FIELD
-- KHUDA
-- Metor Mentee Program
+- FIELD(전국 대학생 산업공학도 모임) 14기 홍보부
+- KHUDA Computer Vision Track 7기 트랙장
+- KHUDA Computer Vision Track 6기 부원
+- 2025 Metor Mentee Program
 
 ---
        
 <h3><img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/alert.gif" width="15"/> My latest posts</h3>
-<ul>
-  <li><a href="https://datascience0321.tistory.com/49"><b>📒 [Review] Recurrent Neural Networks for Multivariate Time Series With Missing Values </i></li>
-</ul>
+
 
 <h3> 🚴‍♂️Tech Stack </h3>
 
 ![The Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olchan&layout=compact)
 
 
-<h3>Where to find me</h3>  
-<p><a href="https://www.instagram.com/chaaann._.o2/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="15"/> @chaaann._.o2</a></p>       
+<h3>Where to find me</h3>       
 <p><a href="https://m.blog.naver.com/chan_booklog?tab=1"> <img src="https://i.namu.wiki/i/QWVJJqQ2U_KE1A1BkDI5WwhFcIeQ4C9uGIgibUWPHr3ev65fv4JW9_Yd-66EVu_0TF8mMXIh9k_dnrv_DlLBCw.svg" width="15"/> Chan's Log</a></p>
-<p><a href="https://github.com/olchan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" width="50"/> GitHub </a></p>
-<p><a href='[LeeChan](www.linkedin.com/in/chan-lee-3792152aa)' target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="50"> Linkedin </a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>2024.03.10</b>!</br>Last refresh: Mon, 10 Mar, 22:51 UTC +09:00<br />
+<p align="center">This <i>README</i> file is generated <b>2025.06.30</b>!</br>Last refresh: Mon, 10 Mar, 22:51 UTC +09:00<br />
