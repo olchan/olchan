@@ -179,7 +179,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
     </tr>
       <tr style="border-bottom: 1px solid #ddd;">
       <td style="padding: 8px;"> 2025 - 1 </td>
-      <td style="padding: 8px;"> 경영 경제 데이터 분석 </td>
+      <td style="padding: 8px;"> <a href="https://github.com/olchan/Business-economic-data-analysis"><b> 경영 경제 데이터 분석 </b></a></td>
       <td style="padding: 8px;"> PSM - DID를 통한 제조업 기업군의 밸류업 프로그램 효과 분석 </td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
