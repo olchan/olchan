@@ -178,12 +178,12 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td style="padding: 8px;"> 생성형 AI를 활용한 아이들을 위한 영어 학습 서비스 개발 </td>
     </tr>
       <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;"> 2025 - 1 </td>
+      <td style="padding: 8px;"> 3학년 1학기 </td>
       <td style="padding: 8px;"> <a href="https://github.com/olchan/Business-economic-data-analysis"><b> 경영 경제 데이터 분석 </b></a></td>
       <td style="padding: 8px;"> PSM - DID를 통한 제조업 기업군의 밸류업 프로그램 효과 분석 </td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;"> 2024 - 2 </td>
+      <td style="padding: 8px;"> 2학년 2학기 </td>
       <td style="padding: 8px;"> 인공지능 </td>
       <td style="padding: 8px;"> Mel-Spectrogram을 통한 불법 벌목 탐지 </td>
     </tr>
