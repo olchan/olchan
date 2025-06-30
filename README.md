@@ -220,10 +220,6 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
 
 ![The Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olchan&layout=compact)
 
-<h3> 🏅Baekjoon Algorithm </h3>
-
-[![Solved.ac 
-wisehead](http://mazassumnida.wtf/api/v2/generate_badge?boj=wisehead)](https://solved.ac/wisehead)
 
 <h3>Where to find me</h3>  
 <p><a href="https://www.instagram.com/chaaann._.o2/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="15"/> @chaaann._.o2</a></p>       
