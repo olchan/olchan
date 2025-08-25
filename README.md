@@ -46,7 +46,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   </thead>
   <tbody> 
  	  <tr>
-      <td><a href="https://drive.google.com/file/d/1rN8WVpVn11az3R77fScxBwVkJQOVn_Rl/view?usp=sharing"><b>사용자의 일상사진을 이해하는 Multi - Modal AI 개발</b></a></td>
+      <td><a href="https://drive.google.com/file/d/1rN8WVpVn11az3R77fScxBwVkJQOVn_Rl/view?usp=sharing"><b>2025 SCPC-AI부분 : 사용자의 일상사진을 이해하는 Multi - Modal AI 개발</b></a></td>
       <td>CHAN</td>
       <td> SAMSUNG RESEARCH
       <td> July. 2025 ~ Aug. 2025</td>
