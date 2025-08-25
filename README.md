@@ -31,6 +31,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-501515?style=flat-square&logo=html5&logoColor=white" />
   <img alt="SIEMENS_NX" src="https://img.shields.io/badge/SIEMENS-NX-red" />
 
+
 </p>
 <h3>✴️Research Experiences & Projects</h3>
 <table>
@@ -45,11 +46,25 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   </thead>
   <tbody> 
  	  <tr>
+      <td><a href="https://drive.google.com/file/d/1rN8WVpVn11az3R77fScxBwVkJQOVn_Rl/view?usp=sharing"><b>사용자의 일상사진을 이해하는 Multi - Modal AI 개발</b></a></td>
+      <td>CHAN</td>
+      <td> SAMSUNG RESEARCH
+      <td> July. 2025 ~ Aug. 2025</td>
+      <td> Design and Implementation of a Reliability-Based VQA Strategy, 17위 / 1445명 (본선 발표 예정) </td>
+    </tr>
+    <tr>
+      <td><a href="https://drive.google.com/file/d/1rN8WVpVn11az3R77fScxBwVkJQOVn_Rl/view?usp=sharing"><b>2D 이미지 기반 3D 추정 기술을 활용한 패키징 최적화 솔루션</b></a></td>
+      <td>FitBOX</td>
+      <td> KHUDA Computer Vistion Track 
+      <td> June. 2025 ~ July. 2025</td>
+      <td> Optimization & Box Detection </td>
+    </tr>
+    <tr>
       <td><a href="https://drive.google.com/file/d/1TvwdFMk4XvmJg_BJoXAlHQFliodoGgbL/view?usp=sharing"><b>LG Aimers 6기 : 난임 환자 대상 임신 성공 여부 예측 AI 제작</b></a></td>
       <td>최_적같이</td>
       <td> LG 화학, HFEA
       <td> Feb. 2025 ~ Apr. 2025</td>
-      <td> Data Preprocessing, Catboost Modelling </td>
+      <td> Data Preprocessing, Catboost Modelling, 10위 / 794팀 (상위 2%) </td>
     </tr>
  	  <tr>
       <td><a href="https://drive.google.com/file/d/1TcPPqMYXF0Jc8yLVnZcwAmbOfuK5Qaq3/view?usp=sharing"><b>KVP 13기 중급 우수상</b></a></td>
@@ -114,11 +129,6 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td style="padding: 8px;">2025.07</td>
       <td style="padding: 8px;">2025 KHUDA 7기 심화 프로젝트 컨퍼런스</td>
       <td style="padding: 8px;"> 최우수상 </td>
-    </tr>
-    <tr>
-      <td style="padding: 8px;">2025.02</td>
-      <td style="padding: 8px;">LG Aimers 6기 : Dacon 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤</td>
-      <td style="padding: 8px;"> 예선 10위 / 794팀 (상위 2%) 본선 최종 9위 </td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
       <td style="padding: 8px;">2025.01</td>
