@@ -213,14 +213,13 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
 
 ### Extracurricluar Activites & Internships 📝
 
-- FIELD(전국 대학생 산업공학도 모임) 14기 홍보부
+- FIELD(전국 대학생 산업공학도 모임) 14기 홍보부원
 - KHUDA Computer Vision Track 7기 트랙장
 - KHUDA Computer Vision Track 6기 부원
-- 2025 Metor Mentee Program
+- 2025 경희대학교 공학교육혁신센터 Metor Mentee Program
 
 ---
        
-<h3><img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/alert.gif" width="15"/> My latest posts</h3>
 
 
 <h3> 🚴‍♂️Tech Stack </h3>
@@ -228,8 +227,5 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
 ![The Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olchan&layout=compact)
 
 
-<h3>Where to find me</h3>       
-<p><a href="https://m.blog.naver.com/chan_booklog?tab=1"> <img src="https://i.namu.wiki/i/QWVJJqQ2U_KE1A1BkDI5WwhFcIeQ4C9uGIgibUWPHr3ev65fv4JW9_Yd-66EVu_0TF8mMXIh9k_dnrv_DlLBCw.svg" width="15"/> Chan's Log</a></p>
-
 ------------
-<p align="center">This <i>README</i> file is generated <b>2025.06.30</b>!</br>Last refresh: Mon, 10 Mar, 22:51 UTC +09:00<br />
+<p align="center">This <i>README</i> file is generated <b>2025.08.25</b>!</br>Last refresh: Mon, 10 Mar, 22:51 UTC +09:00<br />
