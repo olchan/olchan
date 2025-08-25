@@ -38,7 +38,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Research</b></td>
-      <td><b>⭐ Research Place</b></td>
+      <td><b>⭐ </b></td>
       <td><b>📚 Data Source</b></td>
       <td><b>🛎 Research Period</b></td>
       <td><b>📬 Role</b></td>
