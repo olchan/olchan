@@ -67,7 +67,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td> Data Preprocessing, Catboost Modelling, 10위 / 794팀 (상위 2%) </td>
     </tr>
  	  <tr>
-      <td><a href="https://drive.google.com/file/d/1TcPPqMYXF0Jc8yLVnZcwAmbOfuK5Qaq3/view?usp=sharing"><b>KVP 13기 중급 우수상</b></a></td>
+      <td><a href="https://drive.google.com/file/d/1TcPPqMYXF0Jc8yLVnZcwAmbOfuK5Qaq3/view?usp=sharing"><b>생성형 AI를 활용한 대화를 통한 그림책 만들기 서비스</b></a></td>
       <td>SoDoWe</td>
       <td>경희대학교 LINC 3.0 사업단 창업활성화센터</td>
       <td>Dec. 2024 ~ Jan. 2025</td>
