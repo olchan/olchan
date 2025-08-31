@@ -50,7 +50,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td>CHAN</td>
       <td> SAMSUNG RESEARCH
       <td> July. 2025 ~ Aug. 2025</td>
-      <td> Design and Implementation of a Reliability-Based VQA Strategy, 10위 / 1445명 4th Winner</td>
+      <td> Design and Implementation of a Reliability-Based VQA Strategy, 10위 / 1445명 4th Prize Winner</td>
     </tr>
     <tr>
       <td><a href="https://www.canva.com/design/DAGsFQq_QwQ/qbzOPcuSXPoIOlGFfi5Sgw/edit?utm_content=DAGsFQq_QwQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><b>2D 이미지 기반 3D 추정 기술을 활용한 패키징 최적화 솔루션</b></a></td>
