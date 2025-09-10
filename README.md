@@ -215,6 +215,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
 - KHUDA Computer Vision Track 7기 트랙장
 - KHUDA Computer Vision Track 6기 부원
 - 2025 경희대학교 공학교육혁신센터 Metor Mentee Program
+- 이공계 국가 우수 장학생
 
 ---
        
