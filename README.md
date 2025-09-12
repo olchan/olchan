@@ -150,13 +150,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td style="padding: 8px;">2022.08</td>
       <td style="padding: 8px;">대한산업공학회 산업공학 홍보 영상 공모전</td>
       <td style="padding: 8px;">최우수상</td>
-    </tr>
-  <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;">2021.09</td>
-      <td style="padding: 8px;">경희대학교 포트폴리오 경진대회</td>
-      <td style="padding: 8px;">장려상</td>
-    </tr>
-    
+    </tr>  
   </tbody>
 </table>
 
