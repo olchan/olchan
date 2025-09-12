@@ -59,13 +59,6 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td> Feb. 2025 ~ Apr. 2025</td>
       <td> Data Preprocessing, Catboost Modelling, 10위 / 794팀 (상위 2%) </td>
     </tr>
- 	  <tr>
-      <td><a href="https://drive.google.com/file/d/1TcPPqMYXF0Jc8yLVnZcwAmbOfuK5Qaq3/view?usp=sharing"><b>생성형 AI를 통한 동화책 제작 서비스, Storee</b></a></td>
-      <td>SoDoWe</td>
-      <td>경희대학교 LINC 3.0 사업단 창업활성화센터</td>
-      <td>Dec. 2024 ~ Jan. 2025</td>
-      <td>Developing Chatbot Algorithm & Designing a business plan</td>
-    </tr>
     <tr>
       <td><a href="https://www.canva.com/design/DAGYCqlzbwk/2QTkx7VM-2vcnzJWUUTPfw/edit?utm_content=DAGYCqlzbwk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><b>Depth alignment를 통한 자연스러운 연예인 프레임 인생네컷</b></a></td>
       <td>PhotoRealism</td>
