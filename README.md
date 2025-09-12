@@ -53,13 +53,6 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td> Design and Implementation of a Reliability-Based VQA Strategy, 4th Prize Winner</td>
     </tr>
     <tr>
-      <td><a href="https://www.canva.com/design/DAGsFQq_QwQ/qbzOPcuSXPoIOlGFfi5Sgw/edit?utm_content=DAGsFQq_QwQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><b>2D 이미지 기반 3D 추정 기술을 활용한 패키징 최적화 솔루션</b></a></td>
-      <td>FitBOX</td>
-      <td> KHUDA Computer Vistion Track 
-      <td> June. 2025 ~ July. 2025</td>
-      <td> Optimization & Box Detection </td>
-    </tr>
-    <tr>
       <td><a href="https://drive.google.com/file/d/1TvwdFMk4XvmJg_BJoXAlHQFliodoGgbL/view?usp=sharing"><b>LG Aimers 6기 : 난임 환자 대상 임신 성공 여부 예측 AI 제작</b></a></td>
       <td>최_적같이</td>
       <td> LG 화학, HFEA
