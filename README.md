@@ -118,7 +118,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
     </tr>
     <tr>
       <td style="padding: 8px;">2025.08</td>
-      <td style="padding: 8px;">2025 SCPC : AI Challenge</td>
+      <td style="padding: 8px;">2025 Samsung Collegiate Programming Challenge : AI 챌린지</td>
       <td style="padding: 8px;"> 4th Prize Winner </td>
     </tr>
     <tr>
