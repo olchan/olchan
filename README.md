@@ -113,7 +113,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <tr>
       <td style="padding: 8px;">2025.09</td>
       <td style="padding: 8px;">2025 동원 x 카이스트 AI Competition: Unlocking Future Sales & Demographics</td>
-      <td style="padding: 8px;"> 09.30 본선 발표 예정 </td>
+      <td style="padding: 8px;"> 대상 </td>
     </tr>
     <tr>
       <td style="padding: 8px;">2025.08</td>
