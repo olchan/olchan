@@ -202,8 +202,40 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
 - 이공계 국가 우수 장학생
 
 ---
-       
 
+---
+
+<h3>🎬 Media & Press</h3>
+
+<!-- 첫 번째 영상 -->
+<a href="https://www.youtube.com/watch?v=dk7gubnleaI&t=14702s" target="_blank">
+  <img src="https://img.youtube.com/vi/XXXXXXXX/0.jpg" width="400" alt="My Presentation Thumbnail"/>
+</a>
+<p>
+  <b>[2025 KHU AI Forum 발표 영상]</b><br>
+  “산업공학과 데이터사이언스 융합을 통한 AI 응용 연구”
+</p>
+
+<!-- 두 번째 영상 -->
+<a href="https://www.youtube.com/watch?v=YYYYYYYY" target="_blank">
+  <img src="https://img.youtube.com/vi/YYYYYYYY/0.jpg" width="400" alt="Interview Thumbnail"/>
+</a>
+<p>
+  <b>[YTN Science 인터뷰]</b><br>
+  “대학생이 개발한 스마트 제조 예측 AI”
+</p>
+
+<!-- 세 번째 기사 -->
+<a href="https://news.khu.ac.kr/news/articleView.html?idxno=ZZZZZ" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/128/2965/2965875.png" width="60" alt="News Icon"/>
+</a>
+<p>
+  <b>[경희대학교 뉴스]</b><br>
+  “AI 기반 생산 품질 개선 연구 성과”
+</p>
+
+       
+---
 
 <h3> 🚴‍♂️Tech Stack </h3>
 
