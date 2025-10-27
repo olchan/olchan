@@ -205,35 +205,39 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
 
 ---
 
-<h3>🎬 Media & Press</h3>
+<h3>🎥 Presentations & Public Features </h3>
 
-<!-- 첫 번째 영상 -->
-<a href="https://www.youtube.com/live/dk7gubnleaI?si=FCXjtcZWCwUzs9kb&t=14076" target="_blank">
-  <img src="Dongwon Presentation.jpg" width="400" alt="My Presentation Thumbnail"/>
-</a>
-<p>
-  <b>[2025 KHU AI Forum 발표 영상]</b><br>
-  “산업공학과 데이터사이언스 융합을 통한 AI 응용 연구”
-</p>
+<div style="display:flex; align-items:center; gap:12px; margin:10px 0;">
+  <img src="Dongwon Presentation.jpg"
+       alt="Dongwon X KAIST AI Competition Presentation"
+       width="360"
+       style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.08);" />
+  <div>
+    <a href="https://www.youtube.com/live/dk7gubnleaI?si=FCXjtcZWCwUzs9kb&t=14076" target="_blank"
+       style="font-weight:700; text-decoration:none;">
+       [2025 Dongwon X KAIST AI Competition 발표 영상]
+    </a>
+    <div style="font-size:14px; color:#555;">
+      통계 기반 분석과 LLM을 융합한 4 Stage 전략 기반 동원 신제품 월별 판매량 예측
+    </div>
+  </div>
+</div>
 
-<!-- 두 번째 영상 -->
-<a href="https://youtu.be/DtFw3MuIeFE?si=C05pqLCkMJVdlIsu" target="_blank">
-  <img src="https://img.youtube.com/vi/YYYYYYYY/0.jpg" width="400" alt="Interview Thumbnail"/>
-</a>
-<p>
-  <b>[YTN Science 인터뷰]</b><br>
-  “대학생이 개발한 스마트 제조 예측 AI”
-</p>
-
-<!-- 세 번째 기사 -->
-<a href="https://news.khu.ac.kr/news/articleView.html?idxno=ZZZZZ" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/128/2965/2965875.png" width="60" alt="News Icon"/>
-</a>
-<p>
-  <b>[경희대학교 뉴스]</b><br>
-  “AI 기반 생산 품질 개선 연구 성과”
-</p>
-
+<div style="display:flex; align-items:center; gap:12px; margin:10px 0;">
+  <img src="youtube_military.jpg"
+       alt="⟪방랑화가 이병건⟫ EP.07 논산"
+       width="360"
+       style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.08);" />
+  <div>
+    <a href="https://youtu.be/DtFw3MuIeFE?si=mg6-4ZbalLXo6E4H&t=1814" target="_blank"
+       style="font-weight:700; text-decoration:none;">
+       [행복한 입대를 위하여 ⟪방랑화가 이병건⟫ EP.07 논산]
+    </a>
+    <div style="font-size:14px; color:#555;">
+      해당 시리즈의 주인공으로 출연하며 스토리 기획에 참여
+    </div>
+  </div>
+</div>
        
 ---
 
