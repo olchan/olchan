@@ -33,7 +33,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   <img alt="SIEMENS_NX" src="https://img.shields.io/badge/SIEMENS-NX-red" />
 </p>
 
-<h3>🔬 Research Experience & Team Projects</h3>
+<h3>🔬 Research Experience & Selected Team Projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -41,54 +41,46 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td><b> 🏢 Organization & Data Source </b></td>
       <td><b>⏰ Duration</b></td>
       <td><b>🧩 Main Role & Contribution</b></td>
+      <td><b>🏆 Award / Outcome</b></td>
     </tr>
   </thead>
-  <tbody> 
+  <tbody>
+    <tr>
+      <td><a href="https://drive.google.com/file/d/1H6Dpi64s3lYWsGk0jSo0HOoONcCnTVzF/view?usp=sharing"><b>Monthly Sales Prediction for Dongwon’s New Products Based on LLM and Statistical Analysis</b></a></td>
+      <td> Dongwon & KAIST
+      <td> Aug. 2025 ~ Sep. 2025</td>
+      <td> Developed a four-phase framework for new product sales prediction, integrating LLM-based modeling and strategic process planning, followed by a final-stage presentation.</td>
+      <td> Grand Prize <td>
+    </tr>
  	  <tr>
-      <td><a href="https://drive.google.com/file/d/1rN8WVpVn11az3R77fScxBwVkJQOVn_Rl/view?usp=sharing"><b>2025 사용자의 일상사진을 이해하는 Multi - Modal AI 개발</b></a></td>
+      <td><a href="https://drive.google.com/file/d/1rN8WVpVn11az3R77fScxBwVkJQOVn_Rl/view?usp=sharing"><b>Design and Implementation of an On-Device Multi-Modal AI Model for Understanding Users’ Daily Photos on Smartphones</b></a></td>
       <td> SAMSUNG RESEARCH
       <td> July. 2025 ~ Aug. 2025</td>
-      <td> Design and Implementation of a Reliability-Based VQA Strategy, 4th Prize Winner</td>
+      <td> Planned and developed a reliability-based VQA strategy that categorizes questions by model confidence and routes them to the most suitable AI model.</td>
+      <td> 4th Prize Winner <td>
     </tr>
     <tr>
-      <td><a href="https://drive.google.com/file/d/1TvwdFMk4XvmJg_BJoXAlHQFliodoGgbL/view?usp=sharing"><b>LG Aimers 6기 : 난임 환자 대상 임신 성공 여부 예측 AI 제작</b></a></td>
-      <td>최_적같이</td>
-      <td> LG 화학, HFEA
+      <td><a href="https://drive.google.com/file/d/1TvwdFMk4XvmJg_BJoXAlHQFliodoGgbL/view?usp=sharing"><b>Development of an AI Model to Predict Pregnancy Success in Infertility Patients</b></a></td>
+      <td> LG Chem, HFEA </td>
       <td> Feb. 2025 ~ Apr. 2025</td>
+      <td> Executed data preprocessing, CatBoost modeling, and calibration <td>
+      <td> Top 2% (10th / 794 teams) in the LG Aimers 6th </td>
     </tr>
     <tr>
-      <td><a href="https://www.canva.com/design/DAGYCqlzbwk/2QTkx7VM-2vcnzJWUUTPfw/edit?utm_content=DAGYCqlzbwk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><b>Depth alignment를 통한 자연스러운 연예인 프레임 인생네컷</b></a></td>
-      <td>KHUDA Computer Vision Track</td>
-      <td>Sep. 2024 ~ Dec. 2024</td>
-      <td>Development of a depth-based filter size adjustment algorithm</td>
-    </tr>
-    <tr>
-      <td><a href="https://drive.google.com/file/d/1xCGXlPuYxjHPj_qAKlfWkqgQ2zSOWza4/view?usp=sharing"><b>서울시 지역간 연결성 강화를 위한 녹지 선형공원 입지 제안</b></a></td>
-      <td>서울시 빅데이터 캠퍼스</td>
+      <td><a href="https://drive.google.com/file/d/1xCGXlPuYxjHPj_qAKlfWkqgQ2zSOWza4/view?usp=sharing"><b>Proposal for the Location of Green Linear Parks to Enhance Inter-Regional Connectivity in Seoul</b></a></td>
+      <td>Seoul Big Data Campus</td>
       <td>Aug. 2024 ~ Sep. 2024</td>
-      <td>Preprocessing, Developing</td>
+      <td>Data-Driven Optimal Location Analysis and Visualization with QGIS</td>
+      <td> Excellence Award </td>
     </tr>
-    <tr>
-      <td><a href = "https://drive.google.com/file/d/12ndIHcjGavVJ_YP7mDf5X3IH6WdBIPwR/view?usp=sharing"><b>LG Aimers 5기: 차량용 Curved Display 생산 품질 개선 모델 개발' </b></a></td>
-      <td>LG 전자</td>
-      <td>Jun. 2024 ~ Jul. 2024</td>
-      <td>Preprocessing, Developing</td>
-    </tr>
- 	  <tr>
-      <td><a href="https://drive.google.com/file/d/13nC0krYN-CTQAKXGa9ihFbOOrLNe34Tl/view?usp=sharing"><b>야간 작전용 Image Colorization 및 저조도 광학 영상 해상도 개선</b></a></td>
-      <td>KAKAO</td>
-      <td>Nov. 2023 ~ Feb. 2024</td>
-      <td>Project planning and development</td>
-    </tr>
- 	  <tr>
-      <td><a href="https://drive.google.com/file/d/1Xa5c4FRphXHm6q2DeDAX0Kpvu0Kc7oYJ/view?usp=sharing"><b>Finda 사용자 데이터 분석을 통한 대출 신청 고객 분류 및 대출 상품 신청 여부 예측</b></a></td>
-      <td>2022빅콘테스트, (주)FINDA</td>
+      <td><a href="https://drive.google.com/file/d/1Xa5c4FRphXHm6q2DeDAX0Kpvu0Kc7oYJ/view?usp=sharing"><b>Classifying Loan Applicants and Predicting Loan Application Decisions Using Finda User Data</b></a></td>
+      <td>Big Contest, FINDA Co., Ltd.</td>
       <td>Aug. 2022 ~ Dec. 2022</td>
       <td>Preprocessing & Recommending personalized loan messages to customers through clustering</td>
+      <td> Excellence Award </td>
     </tr>
   </tbody>
 </table>
-
 
 ---
 
@@ -151,36 +143,6 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   </tbody>
 </table>
 
----
-
-### 🧠 Study Notes & Class Summaries
-
-<table style="border-collapse: collapse; width: 100%; text-align: left;">
-  <thead>
-    <tr style="border-bottom: 2px solid #ddd;">
-      <th style="width: 300px; padding: 8px;">수강 학기</th>
-      <th style="padding: 8px;">과목명</th>
-      <th style="padding: 8px;">내용 요약</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;">3학년 1학기</td>
-      <td style="padding: 8px;"><a href="https://github.com/olchan/Operations-Research"><b>운영연구</b></a></td>
-      <td style="padding: 8px;">선형계획법(LP), 민감도 분석, 단체계획법, 네트워크 최적화 등 핵심 개념 정리</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;">3학년 1학기</td>
-      <td style="padding: 8px;"><a href="https://github.com/olchan/Statistical-Analysis"><b>통계분석</b></a></td>
-      <td style="padding: 8px;">회귀분석, 분산분석(ANOVA), 가설검정 및 Python 통계 패키지 실습</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;">2학년 2학기</td>
-      <td style="padding: 8px;"><a href="https://github.com/olchan/Machine-Learning-Basics"><b>머신러닝 기초</b></a></td>
-      <td style="padding: 8px;">지도·비지도 학습, 분류·회귀, SVM, KNN, Decision Tree 정리 및 실습 노트</td>
-    </tr>
-  </tbody>
-</table>
 
 ### 📚 Class assignments
 
@@ -265,6 +227,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
     </div>
   </div>
 </div>
+
        
 ---
 
