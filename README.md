@@ -50,20 +50,20 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td> Dongwon & KAIST
       <td> Aug. 2025 ~ Sep. 2025</td>
       <td> Developed a four-phase framework for new product sales prediction, integrating LLM-based modeling and strategic process planning, followed by a final-stage presentation.</td>
-      <td> Grand Prize <td>
+      <td> Grand Prize </td>
     </tr>
  	  <tr>
       <td><a href="https://drive.google.com/file/d/1rN8WVpVn11az3R77fScxBwVkJQOVn_Rl/view?usp=sharing"><b>Design and Implementation of an On-Device Multi-Modal AI Model for Understanding Users’ Daily Photos on Smartphones</b></a></td>
       <td> SAMSUNG RESEARCH
       <td> July. 2025 ~ Aug. 2025</td>
       <td> Planned and developed a reliability-based VQA strategy that categorizes questions by model confidence and routes them to the most suitable AI model.</td>
-      <td> 4th Prize Winner <td>
+      <td> 4th Prize Winner </td>
     </tr>
     <tr>
       <td><a href="https://drive.google.com/file/d/1TvwdFMk4XvmJg_BJoXAlHQFliodoGgbL/view?usp=sharing"><b>Development of an AI Model to Predict Pregnancy Success in Infertility Patients</b></a></td>
       <td> LG Chem, HFEA </td>
       <td> Feb. 2025 ~ Apr. 2025</td>
-      <td> Executed data preprocessing, CatBoost modeling, and calibration <td>
+      <td> Executed data preprocessing, CatBoost modeling, and calibration </td>
       <td> Top 2% (10th / 794 teams) in the LG Aimers 6th </td>
     </tr>
     <tr>
