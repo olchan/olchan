@@ -192,8 +192,6 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
 - 2025 이공계 국가 우수 장학생
 ---
 
----
-
 <h3>🎥 Presentations & Public Features </h3>
 
 <div style="display:flex; align-items:center; gap:12px; margin:10px 0;">
