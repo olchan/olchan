@@ -228,6 +228,22 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   </div>
 </div>
 
+<div style="display:flex; align-items:center; gap:12px; margin:10px 0;">
+  <img src="youtube_military.jpg"
+       alt="2022년 산업공학 홍보영상 공모전 최우수상 수상"
+       width="400"
+       style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.08);" />
+  <div>
+    <a href="https://youtu.be/NPNLs3Kriuw?si=x1Q4KtmaBsQ8dvMW" target="_blank"
+       style="font-weight:700; text-decoration:none;">
+       [2022년 산업공학 홍보영상 공모전 최우수상 수상작]
+    </a>
+    <div style="font-size:14px; color:#555;">
+      산업공학과 홍보를 위한 영상의 콘셉트 기획, 시나리오 구성 및 영상 촬영
+    </div>
+  </div>
+</div>
+
        
 ---
 
