@@ -208,8 +208,8 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
 <h3>🎬 Media & Press</h3>
 
 <!-- 첫 번째 영상 -->
-<a href="https://www.youtube.com/watch?v=dk7gubnleaI&t=14702s" target="_blank">
-  <img src="https://img.youtube.com/vi/XXXXXXXX/0.jpg" width="400" alt="My Presentation Thumbnail"/>
+<a href="https://www.youtube.com/live/dk7gubnleaI?si=FCXjtcZWCwUzs9kb&t=14076" target="_blank">
+  <img src="Dongwon Presentation.jpg" width="400" alt="My Presentation Thumbnail"/>
 </a>
 <p>
   <b>[2025 KHU AI Forum 발표 영상]</b><br>
@@ -217,7 +217,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
 </p>
 
 <!-- 두 번째 영상 -->
-<a href="https://www.youtube.com/watch?v=YYYYYYYY" target="_blank">
+<a href="https://youtu.be/DtFw3MuIeFE?si=C05pqLCkMJVdlIsu" target="_blank">
   <img src="https://img.youtube.com/vi/YYYYYYYY/0.jpg" width="400" alt="Interview Thumbnail"/>
 </a>
 <p>
