@@ -210,6 +210,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   </div>
 </div>
 
+
 <div style="display:flex; align-items:center; gap:12px; margin:10px 0;">
   <img src="youtube_military.jpg"
        alt="⟪방랑화가 이병건⟫ EP.07 논산"
@@ -226,6 +227,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
   </div>
 </div>
 
+
 <div style="display:flex; align-items:center; gap:12px; margin:10px 0;">
   <img src="Industrial_youtube.png"
        alt="2022년 산업공학 홍보영상 공모전 최우수상 수상"
@@ -241,6 +243,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
     </div>
   </div>
 </div>
+
 
        
 ---
