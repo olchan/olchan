@@ -245,11 +245,5 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
 </div>
 
 
----
-
-<h3> 🚴‍♂️Tech Stack </h3>
-![The Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olchan&layout=compact)
-
-
 ------------
 <p align="center">This <i>README</i> file is generated <b>2025.08.15</b>!</br>Last refresh: Mon, 10 Mar, 22:51 UTC +09:00<br />
