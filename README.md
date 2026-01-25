@@ -53,7 +53,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
       <td> Grand Prize </td>
     </tr>
  	  <tr>
-      <td><a href="https://drive.google.com/file/d/1rN8WVpVn11az3R77fScxBwVkJQOVn_Rl/view?usp=sharing"><b>Design and Implementation of an On-Device Multi-Modal AI Model for Understanding Users’ Daily Photos on Smartphones</b></a></td>
+      <td><a href="https://drive.google.com/file/d/1up1t-SaPLVwrjtbFmZjYJC-X1XHd_ygj/view?usp=sharing"><b>Design and Implementation of an On-Device Multi-Modal AI Model for Understanding Users’ Daily Photos on Smartphones</b></a></td>
       <td> SAMSUNG RESEARCH
       <td> July. 2025 ~ Aug. 2025</td>
       <td> Planned and developed a reliability-based VQA strategy that categorizes questions by model confidence and routes them to the most suitable AI model.</td>
