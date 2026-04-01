@@ -127,8 +127,8 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
       <td style="padding: 8px;">2023.11</td>
-      <td style="padding: 8px;">2023 kakao enterprise x goorm 국방분야 AI·SW 역량강화 프로젝트 과정 우수상 (혁신 부문)</td>
-      <td style="padding: 8px;">혁신상</td>
+      <td style="padding: 8px;">2023 kakao enterprise x goorm 국방분야 AI·SW 역량강화 프로젝트 과정(혁신 부문)</td>
+      <td style="padding: 8px;">우수상</td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
       <td style="padding: 8px;">2022.12</td>
