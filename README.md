@@ -195,7 +195,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
 <h3>🎥 Presentations & Public Features </h3>
 
 <div style="display:flex; align-items:center; gap:12px; margin:10px 0;">
-  <img src="Dongwon Presentation.jpg"
+  <img src="https://github.com/user-attachments/assets/b1378225-d617-4103-b3d4-61e2867bdf38"
        alt="Dongwon X KAIST AI Competition Presentation"
        width="300"
        style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.08);" />
@@ -212,7 +212,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
 
 
 <div style="display:flex; align-items:center; gap:12px; margin:10px 0;">
-  <img src="youtube_military.jpg"
+  <img src="https://github.com/user-attachments/assets/4af52b94-2def-4fe2-a56e-d1e01f31bdf9"
        alt="⟪방랑화가 이병건⟫ EP.07 논산"
        width="300"
        style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.08);" />
@@ -229,7 +229,7 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
 
 
 <div style="display:flex; align-items:center; gap:12px; margin:10px 0;">
-  <img src="Industrial_youtube.png"
+  <img src="https://github.com/user-attachments/assets/91b5c7fe-0d6a-411b-82aa-12aeeef31ba2"
        alt="2022년 산업공학 홍보영상 공모전 최우수상 수상"
        width="300"
        style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.08);" />
