@@ -144,37 +144,6 @@ Contact ➡️ <a href="mailto: chan112500@khu.ac.kr">chan112500@khu.ac.kr</a></
 </table>
 
 
-### 📚 Class assignments
-
-  <table style="border-collapse: collapse; width: 100%; text-align: left;">
-  <thead>
-    <tr style="border-bottom: 2px solid #ddd;">
-      <th style="width: 300px; padding: 8px;">수강 학기</th>
-      <th style="padding: 8px;">수업명</th>
-      <th style="padding: 8px;">과제물 설명</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;"> 3학년 1학기 </td>
-      <td style="padding: 8px;"> <a href="https://github.com/olchan/CADCAM"><b> CADCAM </b></a></td>
-      <td style="padding: 8px;"> 창의적인 휴대폰 케이스 설계 및 3D Printer를 통한 프로토타입 제작 </td>
-    </tr>
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 8px;">3학년 1학기</td>
-    <td style="padding: 8px;">
-      <a href="https://github.com/olchan/Business-economic-data-analysis"><b>경영 경제 데이터 분석</b></a>
-    </td>
-    <td style="padding: 8px;">PSM - DID를 통한 제조업 기업군의 밸류업 프로그램 효과 분석</td>
-  </tr>
-    <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;"> 2학년 2학기 </td>
-      <td style="padding: 8px;"> <a href = "https://github.com/olchan/Artificial-Intelligence"> <b> 인공지능 </b> </td>
-      <td style="padding: 8px;"> Mel-Spectrogram을 통한 불법 벌목 탐지 </td>
-    </tr>
-  </tbody>
-</table>
-
 ---
 
 ### 🏫 Extracurricular Activities
